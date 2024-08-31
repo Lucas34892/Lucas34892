@@ -1,4 +1,5 @@
-Hello, i´m #Lucas34892.
-I´m from Chile.
-I speak english and spanish.
-I love creating new things and learning more.
+Hola, soy #Lucas34892.
+Soy de Chile.
+Puedo hablar español e ingles.
+Me encanta crear y aprender nuevas cosas.
+La programación es principalmente un hobby para mi.
